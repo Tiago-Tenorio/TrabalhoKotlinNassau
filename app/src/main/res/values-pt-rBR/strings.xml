@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trabalho Kotlin - Nassau</string>
+    <string name="Title">Calculadora de IMC</string>
+    <string name="User">Usuário</string>
+    <string name="Password">Senha</string>
+    <string name="Login">Login</string>
+</resources>
